@@ -43,6 +43,7 @@ require("lazy").setup({
         -- "matchparen",
         -- "netrwPlugin",
         "tarPlugin",
+        "tutor",
         "tohtml",
         "zipPlugin",
       },
