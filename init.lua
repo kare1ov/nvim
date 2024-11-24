@@ -4,3 +4,5 @@ require("init-lazy")
 require("settings.options")
 require("settings.keymaps")
 require("settings.autocmds")
+-- Load LSP
+require("lsp.init")
